@@ -33,7 +33,7 @@
     "babel-runtime": "^6.16.0",
     "btoa": "^1.1.2",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "react-dom": "^16.0.1",
     "react-router": "^2.8.0",
     "webpack-assets-manifest": "^0.6.1",
     "webpack-stats-plugin": "^0.1.4"
